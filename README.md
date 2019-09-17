@@ -2,8 +2,11 @@
 
 ## Description
 This is  an application that allows users to submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them.
+
 ## Author
 Fidel Omondi
+
+## Link to deployed site: https://pitchcode.herokuapp.com
 
 ## user stories
 * view pitches
@@ -44,8 +47,8 @@ Fidel Omondi
 
 
 ### License
-MIT License
 
+MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

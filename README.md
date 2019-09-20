@@ -6,7 +6,7 @@ This is  an application that allows users to submit their one minute pitches and
 ## Author
 Fidel Omondi
 
-## Link to deployed site: https://pitchcode.herokuapp.com
+## Link to deployed site:  https://pitchcode.herokuapp.com
 
 ## user stories
 * view pitches
